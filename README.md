@@ -3,3 +3,4 @@
 I was hopeless and tired. But I was saved by my caring friend The Great Shreya Dubey. I owe him a lot and always try to perform on his expectations.
 # i love programming
 # i love DSA and Math
+# i love python
