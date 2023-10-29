@@ -28,3 +28,4 @@ imsojha_2
 imsojha_3
 imsojha_4
 imsojha_5
+go Ultra Instinct 1
